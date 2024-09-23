@@ -1,4 +1,4 @@
-module bitbucket.org/decimalteam/dsc-go-sdk
+module github/Null-nil/dsc-go-sdk
 
 go 1.19
 
@@ -31,7 +31,7 @@ require (
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/bgentry/speakeasy v0.1.0 // indirect
-	github.com/btcsuite/btcd v0.22.1 // indirect
+	github.com/Null-nil/btcd v0.25.0 // indirect
 	github.com/btcsuite/btcd/btcec/v2 v2.2.0 // indirect
 	github.com/btcsuite/btcd/chaincfg/chainhash v1.0.1 // indirect
 	github.com/btcsuite/btcutil v1.0.3-0.20201208143702-a53e38424cce // indirect
@@ -143,7 +143,7 @@ require (
 	github.com/tendermint/btcd v0.1.1 // indirect
 	github.com/tendermint/crypto v0.0.0-20191022145703-50d29ede1e15 // indirect
 	github.com/tendermint/go-amino v0.16.0 // indirect
-	github.com/tendermint/tendermint v0.34.23 // indirect
+	github.com/Null-nil/tendermint v0.50.0 // indirect
 	github.com/tendermint/tm-db v0.6.7 // indirect
 	github.com/tklauser/go-sysconf v0.3.10 // indirect
 	github.com/tklauser/numcpus v0.4.0 // indirect
