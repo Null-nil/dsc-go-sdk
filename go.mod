@@ -1,4 +1,4 @@
-module github/Null-nil/dsc-go-sdk
+module github.com/Null-nil/dsc-go-sdk
 
 go 1.19
 
