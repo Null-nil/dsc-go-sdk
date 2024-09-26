@@ -10,8 +10,8 @@ import (
 	"time"
 
 	sdkmath "cosmossdk.io/math"
+	evm "github.com/Null-nil/ethermint/x/evm/types"
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	evm "github.com/evmos/ethermint/x/evm/types"
 	"github.com/go-resty/resty/v2"
 )
 

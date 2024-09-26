@@ -7,7 +7,7 @@ require (
 	cosmossdk.io/math v1.0.0-beta.4
 	github.com/cosmos/cosmos-sdk v0.46.6
 	github.com/cosmos/go-bip39 v1.0.0
-	github.com/evmos/ethermint v0.20.0-rc4
+	github.com/Null-nil/ethermint v0.25.0
 	github.com/go-resty/resty/v2 v2.7.0
 	github.com/gorilla/websocket v1.5.0
 	github.com/stretchr/testify v1.8.1

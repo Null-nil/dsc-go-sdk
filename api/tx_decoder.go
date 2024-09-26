@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	"bitbucket.org/decimalteam/go-smart-node/app"
+	"github.com/Null-nil/ethermint/encoding"
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/evmos/ethermint/encoding"
 )
 
 type TxDecoded struct {

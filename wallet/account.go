@@ -5,12 +5,12 @@ import (
 
 	"github.com/cosmos/cosmos-sdk/types/bech32"
 
+	"github.com/Null-nil/ethermint/crypto/ethsecp256k1"
+	ethermintHd "github.com/Null-nil/ethermint/crypto/hd"
+	ethermint "github.com/Null-nil/ethermint/types"
 	"github.com/cosmos/cosmos-sdk/crypto/keys/secp256k1"
 	cryptoTypes "github.com/cosmos/cosmos-sdk/crypto/types"
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/evmos/ethermint/crypto/ethsecp256k1"
-	ethermintHd "github.com/evmos/ethermint/crypto/hd"
-	ethermint "github.com/evmos/ethermint/types"
 )
 
 const Bech32Prefix = "d0"
