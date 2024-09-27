@@ -13,7 +13,7 @@ import (
 	dscWallet "bitbucket.org/decimalteam/dsc-go-sdk/wallet"
 	"bitbucket.org/decimalteam/go-smart-node/utils/helpers"
 	"cosmossdk.io/math"
-	sdk "github.com/cosmos/cosmos-sdk/types"
+	sdk "github.com/Null-nil/cosmos-sdk/types"
 )
 
 func main() {

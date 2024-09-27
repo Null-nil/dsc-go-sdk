@@ -1,8 +1,8 @@
 package api
 
 import (
-	sdk "github.com/cosmos/cosmos-sdk/types"
-	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
+	sdk "github.com/Null-nil/cosmos-sdk/types"
+	sdkerrors "github.com/Null-nil/cosmos-sdk/types/errors"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 	"math/big"
 )

@@ -5,9 +5,9 @@ go 1.19
 require (
 	bitbucket.org/decimalteam/go-smart-node v0.0.0-20221214063359-d4ba68dc4c2c
 	cosmossdk.io/math v1.0.0-beta.4
-	github.com/cosmos/cosmos-sdk v0.46.6
+	github.com/Null-nil/cosmos-sdk v0.60.0
 	github.com/cosmos/go-bip39 v1.0.0
-	github.com/Null-nil/ethermint v0.25.0
+	github.com/Null-nil/ethermint v0.25.1
 	github.com/go-resty/resty/v2 v2.7.0
 	github.com/gorilla/websocket v1.5.0
 	github.com/stretchr/testify v1.8.1

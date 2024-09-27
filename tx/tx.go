@@ -3,14 +3,14 @@ package tx
 import (
 	"fmt"
 
-	"github.com/cosmos/cosmos-sdk/client"
-	"github.com/cosmos/cosmos-sdk/codec"
-	codecTypes "github.com/cosmos/cosmos-sdk/codec/types"
-	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/cosmos/cosmos-sdk/types/tx/signing"
-	signingTypes "github.com/cosmos/cosmos-sdk/types/tx/signing"
-	authSigning "github.com/cosmos/cosmos-sdk/x/auth/signing"
-	authTx "github.com/cosmos/cosmos-sdk/x/auth/tx"
+	"github.com/Null-nil/cosmos-sdk/client"
+	"github.com/Null-nil/cosmos-sdk/codec"
+	codecTypes "github.com/Null-nil/cosmos-sdk/codec/types"
+	sdk "github.com/Null-nil/cosmos-sdk/types"
+	"github.com/Null-nil/cosmos-sdk/types/tx/signing"
+	signingTypes "github.com/Null-nil/cosmos-sdk/types/tx/signing"
+	authSigning "github.com/Null-nil/cosmos-sdk/x/auth/signing"
+	authTx "github.com/Null-nil/cosmos-sdk/x/auth/tx"
 
 	"bitbucket.org/decimalteam/dsc-go-sdk/wallet"
 )

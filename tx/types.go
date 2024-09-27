@@ -7,7 +7,7 @@ import (
 	nftTypes "bitbucket.org/decimalteam/go-smart-node/x/nft/types"
 	swapTypes "bitbucket.org/decimalteam/go-smart-node/x/swap/types"
 	validatorTypes "bitbucket.org/decimalteam/go-smart-node/x/validator/types"
-	upgradetypes "github.com/cosmos/cosmos-sdk/x/upgrade/types"
+	upgradetypes "github.com/Null-nil/cosmos-sdk/x/upgrade/types"
 )
 
 type (
